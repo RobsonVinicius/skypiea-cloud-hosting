@@ -115,6 +115,21 @@ img {
   outline: none;
 }
 
+/* Skewed Area */
+.showcase::before, .showcase::after {
+  content: '';
+  position: absolute;
+  height: 100px;
+  bottom: -70px;
+  right: 0;
+  left: 0;
+  background: #fff;
+  transform: skewY(-3deg);
+  -webkit-transform: skewY(-3deg);
+  -moz-transform: skewY(-3deg);
+  -ms-transform: skewY(-3deg);
+}
+
 /* Utilities */
 .container {
   max-width: 1100px;
@@ -149,7 +164,7 @@ img {
 }
 
 .btn:hover {
-  transform: scale(.95);
+  transform: scale(.96);
 }
 
 .flex {
