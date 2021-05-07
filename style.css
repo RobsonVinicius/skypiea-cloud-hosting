@@ -1,5 +1,8 @@
 :root {
   --primary-color: #3d84b8;
+  --secondary-color: #224b68;
+  --dark-color: #132b3b;
+  --light-color: #f4f4f4;
   --font-body: 'Ubuntu', sans-serif;
   /* --font-body: 'Lato', sans-serif; */
 }
@@ -158,4 +161,9 @@ img {
 .cli .grid > *:first-child {
   grid-column: 1 / span 2;
   grid-row: 1 / span 2;
+}
+
+/* Cloud */
+.cloud .grid {
+  grid-template-columns: 4fr 3fr;
 }
