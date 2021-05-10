@@ -8,9 +8,21 @@ Site para o serviço de hospedagem Skypiea
 
 <br>
 
-## Tecnologias Utilizadas
+## Fonte Utilizada
 
-Em breve
+[Ubutnu](https://fonts.google.com/specimen/Ubuntu)
+
+<br>
+
+## Icons
+
+https://cdnjs.com/libraries/font-awesome
+
+<br>
+
+## Live Preview
+
+https://robsonvinicius.github.io/skypiea-cloud-hosting/
 
 <!--
 Tecnologia | Descrição | Versão | Site
