@@ -4,6 +4,10 @@ Site para o serviço de hospedagem Skypiea
 
 <br>
 
+![Preview Desktop Skypiea](imaages/thumb.jpg)
+
+<br>
+
 ## Tecnologias Utilizadas
 
 Em breve
