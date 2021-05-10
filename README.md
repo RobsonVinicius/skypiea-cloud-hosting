@@ -4,7 +4,7 @@ Site para o serviço de hospedagem Skypiea
 
 <br>
 
-![Preview Desktop Skypiea](imaages/thumb.jpg)
+![Preview Desktop Skypiea](images/thumb.jpg)
 
 <br>
 
