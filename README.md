@@ -10,13 +10,13 @@ Site para o serviço de hospedagem Skypiea
 
 ## Fonte Utilizada
 
-[Ubutnu](https://fonts.google.com/specimen/Ubuntu)
+[Ubuntu](https://fonts.google.com/specimen/Ubuntu)
 
 <br>
 
 ## Icons
 
-https://cdnjs.com/libraries/font-awesome
+[Font Awesome](https://cdnjs.com/libraries/font-awesome)
 
 <br>
 
